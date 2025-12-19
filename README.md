@@ -1,0 +1,2 @@
+# planb-privacy
+Privacy Policy
