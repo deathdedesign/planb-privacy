@@ -2,7 +2,7 @@ Privacy Policy
 
 Effective date: January 1, 2025
 
-B Plan (“the App”) respects your privacy and is designed to operate without collecting personal data.
+Planby (“the App”) respects your privacy and is designed to operate without collecting personal data.
 
 Data Collection
 The App does not collect, store, process, or transmit any personal or sensitive user data. All information created within the App (such as tasks, goals, and habits) is stored locally on the user’s device.
