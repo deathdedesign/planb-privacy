@@ -1,2 +1,2 @@
-# planb-privacy
+# planby-privacy
 Privacy Policy
